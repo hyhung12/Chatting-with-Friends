@@ -47,7 +47,3 @@ https://www.pythontutorial.net/tkinter/tkinter-treeview/<br>
 https://www.pythontutorial.net/tkinter/tkinter-toplevel/<br>
 https://stackoverflow.com/questions/7338501/python-assign-value-if-none-exists
 
-
-```python
-
-```
