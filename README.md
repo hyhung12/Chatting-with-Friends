@@ -1,8 +1,8 @@
-**# NAME Hung Nguyen**
-<br>**# EMAIL hunghn4@uci.edu**
-<br>**# STUDENT ID 26441523**
+**# NAME: Hung Nguyen**
+<br>**# EMAIL: hunghn4@uci.edu**
+<br>**# STUDENT ID: 26441523**
 
-### Assignment 6: Chatting with Friends
+### Final Project: Chatting with Friends
 
 This assignment includes the following starter files:
 
