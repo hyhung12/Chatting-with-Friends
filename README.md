@@ -1,10 +1,10 @@
 **# NAME: Hung Nguyen**
 <br>**# EMAIL: hunghn4@uci.edu**
-<br>**# STUDENT ID: 26441523**
 
-### Final Project: Chatting with Friends
 
-This assignment includes the following starter files:
+### Chatting with Friends
+
+This project includes the following starter files:
 
 * __a6.py__:  The main module.
 * __ds_messenger.py__: Contains DirectMessage and DirectMessenger classes.
